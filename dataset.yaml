@@ -1,5 +1,5 @@
 
-path: C:\Users\harsh\projects\avoiding_road_accidents\data\yolo_dataset  # dataset root dir
+path: c:\Users\harsh\projects\avoiding_road_accidents\data\yolo_dataset  # dataset root dir
 train: images/train  # train images (relative to 'path')
 val: images/val  # val images (relative to 'path')
 
