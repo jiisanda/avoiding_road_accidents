@@ -164,6 +164,7 @@ cython_debug/
 
 # custom 
 data/
+dataset/
 models/
 runs/
 *pt
